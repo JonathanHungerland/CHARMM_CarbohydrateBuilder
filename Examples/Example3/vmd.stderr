@@ -1,0 +1,399 @@
+/usr/local/lib/vmd/vmd_LINUXAMD64: /lib/x86_64-linux-gnu/libGL.so.1: no version information available (required by /usr/local/lib/vmd/vmd_LINUXAMD64)
+Defaulting "clash_tolerance_dist" for polymer-internal clashes to 0.8 Angström.
+Defaulting "mindist for next-residue-placement to 4.5 Angström.
+Defaulting "maxdist" for next-residue-placement to 6.5 Angström.
+Defaulting "allowed_rotation" for next-residue-placement to 15 degrees.
+Defaulting "max_residue_tries" for placing the next residue to 30.
+Defaulting probability "bglc_protonation_prob" for protonating residue BGLC to 0.0
+Defaulting selection text "polbuild_fromsel_text" to "name C3 O3 C4 O4"
+Defaulting selection text "polbuild_tosel_text" to "name C1 O1 HO1 H1"
+Defaulting number "nrepreats" of basic unit polymer repeats to 3.
+Defaulting "space_per_polymer" to 10^3 Angström.
+Using build_method "bored_bricklayer"
+Defaulting "ncolumns" to 2.
+Defaulting "brick_increment" to 0.5.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P1 were, on average, succesfully placed after 1.5555555555555556 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P2 were, on average, succesfully placed after 1.1111111111111112 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P3 were, on average, succesfully placed after 1.2222222222222223 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P4 were, on average, succesfully placed after 3.2222222222222223 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P5 were, on average, succesfully placed after 1.2222222222222223 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P6 were, on average, succesfully placed after 2.0 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P7 were, on average, succesfully placed after 1.6666666666666667 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P8 were, on average, succesfully placed after 1.4444444444444444 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P9 were, on average, succesfully placed after 1.1111111111111112 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P10 were, on average, succesfully placed after 2.3333333333333335 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P11 were, on average, succesfully placed after 1.1111111111111112 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P12 were, on average, succesfully placed after 1.6666666666666667 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P13 were, on average, succesfully placed after 0.8888888888888888 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P14 were, on average, succesfully placed after 1.5555555555555556 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P15 were, on average, succesfully placed after 0.8888888888888888 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P16 were, on average, succesfully placed after 1.7777777777777777 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P17 were, on average, succesfully placed after 1.1111111111111112 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P18 were, on average, succesfully placed after 1.0 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P19 were, on average, succesfully placed after 2.2222222222222223 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P20 were, on average, succesfully placed after 2.2222222222222223 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P21 were, on average, succesfully placed after 1.2222222222222223 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P22 were, on average, succesfully placed after 1.3333333333333333 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P23 were, on average, succesfully placed after 1.3333333333333333 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P24 were, on average, succesfully placed after 1.1111111111111112 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P25 were, on average, succesfully placed after 1.3333333333333333 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P26 were, on average, succesfully placed after 1.0 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P27 were, on average, succesfully placed after 1.0 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P28 were, on average, succesfully placed after 1.3333333333333333 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P29 were, on average, succesfully placed after 1.3333333333333333 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P30 were, on average, succesfully placed after 1.3333333333333333 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P31 were, on average, succesfully placed after 1.3333333333333333 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P32 were, on average, succesfully placed after 1.4444444444444444 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P33 were, on average, succesfully placed after 1.7777777777777777 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P34 were, on average, succesfully placed after 1.0 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P35 were, on average, succesfully placed after 1.1111111111111112 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P36 were, on average, succesfully placed after 1.2222222222222223 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P37 were, on average, succesfully placed after 1.0 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P38 were, on average, succesfully placed after 1.1111111111111112 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P39 were, on average, succesfully placed after 1.5555555555555556 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P40 were, on average, succesfully placed after 1.3333333333333333 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P41 were, on average, succesfully placed after 1.5555555555555556 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P42 were, on average, succesfully placed after 1.0 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P43 were, on average, succesfully placed after 0.8888888888888888 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P44 were, on average, succesfully placed after 1.4444444444444444 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P45 were, on average, succesfully placed after 1.2222222222222223 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P46 were, on average, succesfully placed after 1.4444444444444444 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P47 were, on average, succesfully placed after 1.0 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P48 were, on average, succesfully placed after 1.7777777777777777 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P49 were, on average, succesfully placed after 1.4444444444444444 tries.
+Building polymer: GLCA GALN GALN GLCA GALN GALN GLCA GALN GALN
+With patches    : GLCP NONE NONE GLCP NONE NONE GLCP NONE NONE
+Linked by       : 13bb 13bb 14bb 13bb 13bb 14bb 13bb 13bb
+Polymer residues of segid P50 were, on average, succesfully placed after 1.1111111111111112 tries.
+Building polymer layer.
+Polymers merged.
+All polymers merged. Calling build method bored_bricklayer
+Laying stack number 0.
+Laying row number 0.
+Building to row starting from first stack polymer.
+Laying polymer brick number 2 in direction +x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 1.
+Laying polymer brick number 3 in direction +y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 4 in direction -x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 2.
+Laying polymer brick number 5 in direction +y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 6 in direction +x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 3.
+Laying polymer brick number 7 in direction +y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 8 in direction -x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 4.
+Laying polymer brick number 9 in direction +y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 10 in direction +x.
+And puuuush!
+Wiggle wiggle...
+Laying stack number 1.
+Laying polymer brick number 11 in direction +z.
+And puuuush!
+Wiggle wiggle...
+Laying row number 0.
+Building to row starting from first stack polymer.
+Laying polymer brick number 12 in direction -x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 1.
+Laying polymer brick number 13 in direction -y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 14 in direction +x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 2.
+Laying polymer brick number 15 in direction -y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 16 in direction -x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 3.
+Laying polymer brick number 17 in direction -y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 18 in direction +x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 4.
+Laying polymer brick number 19 in direction -y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 20 in direction -x.
+And puuuush!
+Wiggle wiggle...
+Laying stack number 2.
+Laying polymer brick number 21 in direction +z.
+And puuuush!
+Wiggle wiggle...
+Laying row number 0.
+Building to row starting from first stack polymer.
+Laying polymer brick number 22 in direction +x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 1.
+Laying polymer brick number 23 in direction +y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 24 in direction -x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 2.
+Laying polymer brick number 25 in direction +y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 26 in direction +x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 3.
+Laying polymer brick number 27 in direction +y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 28 in direction -x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 4.
+Laying polymer brick number 29 in direction +y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 30 in direction +x.
+And puuuush!
+Wiggle wiggle...
+Laying stack number 3.
+Laying polymer brick number 31 in direction +z.
+And puuuush!
+Wiggle wiggle...
+Laying row number 0.
+Building to row starting from first stack polymer.
+Laying polymer brick number 32 in direction -x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 1.
+Laying polymer brick number 33 in direction -y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 34 in direction +x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 2.
+Laying polymer brick number 35 in direction -y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 36 in direction -x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 3.
+Laying polymer brick number 37 in direction -y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 38 in direction +x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 4.
+Laying polymer brick number 39 in direction -y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 40 in direction -x.
+And puuuush!
+Wiggle wiggle...
+Laying stack number 4.
+Laying polymer brick number 41 in direction +z.
+And puuuush!
+Wiggle wiggle...
+Laying row number 0.
+Building to row starting from first stack polymer.
+Laying polymer brick number 42 in direction +x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 1.
+Laying polymer brick number 43 in direction +y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 44 in direction -x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 2.
+Laying polymer brick number 45 in direction +y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 46 in direction +x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 3.
+Laying polymer brick number 47 in direction +y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 48 in direction -x.
+And puuuush!
+Wiggle wiggle...
+Laying row number 4.
+Laying polymer brick number 49 in direction +y.
+And puuuush!
+Wiggle wiggle...
+Laying polymer brick number 50 in direction +x.
+And puuuush!
+Wiggle wiggle...

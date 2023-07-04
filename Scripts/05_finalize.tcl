@@ -1,9 +1,7 @@
 proc finalize { file } {
     global simprepname
     set outfile [move_to_center $file]
-    if { $build_method == "bored_bricklayer" } {
-        
-    } else { write_pbc $outfile }
+    write_pbc $outfile
     return $outfile
 }
 
