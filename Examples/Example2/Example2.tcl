@@ -3,20 +3,21 @@
 
 #Here are the settings:
 set build_method "bored_bricklayer" ;#will construct layers of parallel polymers
+set brick_increment 1.0
 #### POLY -> POLY -> POLY ####    ==> Columns
 #### POLY -> POLY -> POLY ####  ||
 #### POLY -> POLY -> POLY ####  \/ Rows
 #### POLY -> POLY -> POLY ####    
-set ncolums 2 ;#number of columns
-set nrows 5 ;#number of rows
-set nstacks 5 ;#number of vertical stacks
+set ncolumns 3 ;#number of columns
+set nrows 8 ;#number of rows
+set nstacks 8 ;#number of vertical stacks
 
 set temperature 300 ;#simulation temperature, only relevant to get salt concentration perfectly right.
 set cation "SOD" ;#the cation for ionization shall be sodium
-set ncation 5
+set ncation 0
 set anion "CLA" ;#the anion for ionization shall be chloride
-set nanion 5
-set nwaters 50
+set nanion 0
+set nwaters [expr 50*$nrows*$ncolumns*$nstacks]
 
 #import all scripts that you need. will also set default values for all parameters that have not been given yet.
 source ../../Scripts/01_polymer_construction.tcl
@@ -40,8 +41,10 @@ set layer [build_layer $poly_list]
 set ionized [ion_placer $layer $ncation $nanion]
 set solvated [water_placer $ionized $nwaters]
 set final [finalize $solvated]
-file copy -force $final.psf ../Example2.psf
-file copy -force $final.pdb ../Example2.pdb
 file copy -force $final.pbc ../Example2.pbc
+set shifted_stacks [shift_stacks $final]
+file copy -force $shifted_stacks.psf ../Example2.psf
+file copy -force $shifted_stacks.pdb ../Example2.pdb
+
 
 quit

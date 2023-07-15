@@ -28,11 +28,11 @@ if {![info exists bglc_protonation_prob]} {
 }
 if {![info exists polbuild_fromsel_text]} {
     puts stderr "Defaulting selection text \"polbuild_fromsel_text\" to \"name C3 O3 C4 O4\""
-    set polbuild_fromsel_text "name C3 O3 C4 O4"
+    set polbuild_fromsel_text "name C1 O1 HO1 H1"
 }
 if {![info exists polbuild_tosel_text]} {
     puts stderr "Defaulting selection text \"polbuild_tosel_text\" to \"name C1 O1 HO1 H1\""
-    set polbuild_tosel_text "name C1 O1 HO1 H1"
+    set polbuild_tosel_text "name C3 O3 C4 O4"
 }
 if {![info exists nrepeats]} {
     puts stderr "Defaulting number \"nrepreats\" of basic unit polymer repeats to 3."
@@ -49,55 +49,26 @@ proc residue_link_generator { residue_repeat link_repeat nrepeats } {
     set patchlist {}
     for {set i 0} {$i<$nrepeats} {incr i} {
         foreach residue $residue_repeat link $link_repeat {
-            if { $residue == "GALN" || $residue == "GLCA" || $residue == "GLC2" || $residue == "N2P" } {
+            if { $residue == "GALN" || $residue == "GLCA" } {
                 lappend residuelist $residue
                 lappend patchlist "NONE"
-                            } elseif { $residue == "GALP" } {
+            } elseif { $residue == "GALP" } {
                 lappend residuelist "GALN"
                 lappend patchlist "GALP"
-                set B "P"
             } elseif { $residue == "GLCP" } {
                 lappend residuelist "GLCA"
                 lappend patchlist "GLCP"
-                set B "A"
+            } elseif { $residue == "N2P" } {
+                lappend residuelist "GALN"
+                lappend patchlist "N2P"
             } else {
                 puts stderr "ERROR: Unrecognized residue type."
                 exit
             }
-            lappend tmp_linklist $link
+            lappend linklist "${link}bb"
         }
     }
-    for {set r 0} {$r<[expr [llength $residuelist] - 1]} {incr r} {
-        set from_res   [lindex $residuelist $r]
-        set from_patch [lindex $patchlist $r]
-        set to_res     [lindex $residuelist [expr $r + 1]]
-        set to_patch   [lindex $patchlist [expr $r + 1]]
-        if { $from_res == "GALN" && $from_patch == "NONE" } {
-             set A "N"
-        } elseif { $from_res == "GALN" && $from_patch == "GALP" } {
-             set A "P"
-        } elseif { $from_res == "N2P" } {
-             set A "N2P"
-        } elseif { $from_res == "GLCA" || $from_res == "GLC2" } {
-             set A "A"
-        }
-        if { $to_patch == "NONE" } {
-             if { $to_res == "GALN" } {
-                 set B "N"
-             } elseif { $to_res == "GLCA" || $to_res == "GLC2" } {
-                 set B "A"
-             } elseif { $to_res == "N2P" } {
-                 set B "N2P"
-             }
-        } elseif { $to_patch == "GALP" } {
-             set B "P"
-        } elseif { $to_patch == "GLCP" } {
-             set B "A"
-        }
-        lappend linklist "[lindex ${tmp_linklist} $r]${A}${B}"
-    }   
-    
-    #set linklist [lreplace $linklist end end]
+    set linklist [lreplace $linklist end end]
 
     lappend all_residue_types [lsort -u $residuelist]
     lappend all_residue_types [lsort -u $patchlist]
@@ -153,7 +124,10 @@ proc polymer_psfgen { inputfile linklist patchlist polnumber } {
     mol new $inputfile.pdb
     [atomselect top "all"] set segid P$polnumber
 
-    topology $fileslocation/MC_polymer.top
+    topology $fileslocation/top_all36_carb_new.rtf
+
+    topology alias GALN BGALNA
+    topology alias GLCA BGLCA
 
     pdbalias atom GALN N2 N
     pdbalias atom GALN HN2 HN

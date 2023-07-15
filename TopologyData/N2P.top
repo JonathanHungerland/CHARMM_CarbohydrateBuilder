@@ -1,0 +1,97 @@
+*
+* Dual topology for the alchemical perturbation from the BGALNA carbohydrate residue
+* to its protonated counterpart.
+*
+
+!Definition of atom types
+MASS   180 CC331   12.01100  C ! generic acyclic CH3 carbon (xyl C6, glcna/galna CT)
+MASS   181 CC2O1   12.01100  C ! sp2 carbon in amides, aldoses
+MASS   187 HCA3     1.00800  H ! aliphatic proton, CH3
+MASS   188 HCP1     1.00800  H ! polar H
+MASS   195 OC2D1   15.99940  O ! sp2 oxygen in amides, aldoses
+MASS   200 NC2D1   14.00700  N ! peptide, NMA, IPAA nitrogen (C=NHR)
+MASS    -1 OC313   15.99940  O
+MASS    -1 HCP3     1.00800  H
+
+PRES N2P   0.00             ! patch to be applied to BGALNA or GALP to get the dual topology residue of these.
+dele atom C2 
+dele atom H2 
+dele atom N 
+dele atom HN 
+dele atom C 
+dele atom O 
+dele atom HO 
+dele atom CT 
+dele atom HT1 
+dele atom HT2 
+dele atom HT3
+ATOM AC2   CC3161    0.070  !                        C1...
+ATOM AH2   HCA1      0.090  !                        /
+ATOM AN    NC2D1    -0.470  !              ...C3--AC2-AH2
+ATOM AHN   HCP1      0.310  !                       |
+GROU                        !                      AN-AHN
+ATOM AC    CC2O1     0.510  !                      /
+ATOM AO    OC2D1    -0.510  !                 AO=AC  AHT1
+GROU                        !                     \ /
+ATOM ACT   CC331    -0.270  !                 AHT2-ACT
+ATOM AHT1  HCA3      0.090  !                        \
+ATOM AHT2  HCA3      0.090  !                        AHT3
+ATOM AHT3  HCA3      0.090  !
+GROU
+ATOM BC2   CC3161   0.229  !                        C1...
+ATOM BH2   HCA1     0.126  !                        /
+ATOM BN    NC2D1    0.175  !               ...C3--BC2-BH2
+ATOM BHN   HCP1     0.301  !                       |
+ATOM BC    CC2O1   -0.679  !                       BN-BHN
+ATOM BO    OC313   -0.196  !                      /
+ATOM BHO   HCP3     0.548  !                  BO-C   BHT1
+ATOM BCT   CC331   -0.566  !                 /    \ /
+ATOM BHT1  HCA3     0.354  !               BHO    BCT
+ATOM BHT2  HCA3     0.354  !                      /  \
+ATOM BHT3  HCA3     0.354  !                     BHT2  BHT3
+BOND C1 AC2 C3 AC2 AC2 AH2 AC2 AN
+BOND AN AHN AN AC AC AO AC ACT
+BOND ACT AHT1 ACT AHT2 ACT AHT3
+BOND C1 BC2 C3 BC2 BC2 BH2 BC2 AN
+BOND BN BHN BN BC BC BO BO BHO BC BCT
+BOND BCT BHT1 BCT BHT2 BCT BHT3
+IMPR AC ACT AN AO
+IMPR AN AC AC2 AHN
+IMPR BC BCT BN BO
+IMPR BN BC BC2 BHN
+!    I    J    K    L      R(IK)   T(IKJ)    PHI   T(JKL)   R(KL)
+IC       O1   AC2   *C1    H1  1.4006  109.41  118.16  109.00   1.1146
+IC       O1    O5   *C1   AC2  1.4006  112.45  122.23  110.03   1.5235
+IC       AN    C3  *AC2   AH2  1.4542  111.59 -115.73  107.43   1.1188
+IC       AN    C1  *AC2    C3  1.4542  115.05 -126.93  109.87   1.5127
+IC       O5    C1   AC2    C3  1.4328  110.03   55.96  109.87   1.5127
+IC       C1   AC2    C3    C4  1.5235  109.87  -54.38  110.75   1.5146
+IC      AC2    C3    C4    C5  1.5127  110.75   55.35  109.33   1.5203
+IC       C5    O5    C1   AC2  1.4431  112.69  -60.89  110.03   1.5235
+IC       C1   AC2    AN   AHN  1.5235  115.05 -118.24  115.62   0.9937
+IC       AC    AN   AC2    C3  1.3354  123.56 -169.15  111.59   1.5127
+IC       AC   AC2   *AN   AHN  1.3354  123.56  176.96  115.62   0.9937
+IC      ACT    AC    AN   AC2  1.4804  116.54  179.29  123.56   1.4542
+IC       AN   ACT   *AC    AO  1.3354  116.54  179.78  121.19   1.2233
+IC       AO    AC   ACT  AHT1  1.2233  121.19  119.84  110.19   1.1104
+IC       AO    AC   ACT  AHT2  1.2233  121.19    0.28  109.29   1.1117
+IC       AO    AC   ACT  AHT3  1.2233  121.19 -119.29  110.17   1.1104
+
+IC       O1   BC2   *C1    H1  1.4006  109.41  118.16  109.00   1.1146
+IC       O1    O5   *C1   BC2  1.4006  112.45  122.23  110.03   1.5235
+IC       BN    C3  *BC2   BH2  1.4542  111.59 -115.73  107.43   1.1188
+IC       BN    C1  *BC2    C3  1.4542  115.05 -126.93  109.87   1.5127
+IC       O5    C1   BC2    C3  1.4328  110.03   55.96  109.87   1.5127
+IC       C1   BC2    C3    C4  1.5235  109.87  -54.38  110.75   1.5146
+IC      BC2    C3    C4    C5  1.5127  110.75   55.35  109.33   1.5203
+IC       C5    O5    C1   BC2  1.4431  112.69  -60.89  110.03   1.5235
+IC       C1   BC2    BN   BHN  1.5235  115.05 -118.24  115.62   0.9937
+IC       BC    BN   BC2    C3  1.3354  123.56 -169.15  111.59   1.5127
+IC       BC   BC2   *BN   BHN  1.3354  123.56  176.96  115.62   0.9937
+IC      BCT    BC    BN   BC2  1.4804  116.54  179.29  123.56   1.4542
+IC       BN   BCT   *BC    BO  1.3354  116.54  179.78  121.19   1.2233
+IC       BO    BC   BCT  BHT1  1.2233  121.19  119.84  110.19   1.1104
+IC       BO    BC   BCT  BHT2  1.2233  121.19    0.28  109.29   1.1117
+IC       BO    BC   BCT  BHT3  1.2233  121.19 -119.29  110.17   1.1104
+IC       BN    BC    BO   BHO  1.29    116.33    0.1   111.00   0.97
+
