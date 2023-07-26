@@ -368,7 +368,7 @@ proc persistance_based_residue_placing { vector displacement } {
     #see: The Equilibrium Theory of Inhomogeneous Polymers by Glenn H. Fredrickson
     #page 47 eq. 2.74-2.75
     global persistence_length allowed_rotation
-    set pstddev [expr $persistence_length / (2.0 * $displacement)]
+    set pstddev [expr $displacement / $persistence_length]
     while {1} {
         set try_vec [random_point_xdegrees_close $vector $allowed_rotation]
         set delta_u2 [vecdot [vecsub $vector $try_vec] [vecsub $vector $try_vec]]
