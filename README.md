@@ -9,3 +9,7 @@ All scripts are supposed to be run using VMD that can be downloaded for free fro
 https://www.ks.uiuc.edu/Development/Download/download.cgi?PackageName=VMD  
 and then they should be executed as  
 vmd -e Example1.tcl
+
+For conversions to input files for other MD engines (including GROMACS, LAMMPS, ...) please use topotools:
+https://sites.google.com/site/akohlmey/software/topotools
+Additional scripts for conversion can be found in Examples/Input_Conversions.
