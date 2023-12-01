@@ -26,17 +26,21 @@ if {![info exists bglc_protonation_prob]} {
     puts stderr "Defaulting probability \"bglc_protonation_prob\" for protonating residue BGLC to 0.0"
     set bglc_protonation_prob 0.0
 }
-if {![info exists polbuild_fromsel_text]} {
-    puts stderr "Defaulting selection text \"polbuild_fromsel_text\" to \"name C3 O3 C4 O4\""
-    set polbuild_fromsel_text "name C1 O1 HO1 H1"
-}
-if {![info exists polbuild_tosel_text]} {
-    puts stderr "Defaulting selection text \"polbuild_tosel_text\" to \"name C1 O1 HO1 H1\""
-    set polbuild_tosel_text "name C3 O3 C4 O4"
-}
 if {![info exists nrepeats]} {
     puts stderr "Defaulting number \"nrepreats\" of basic unit polymer repeats to 3."
 }
+#the following two define the "interal" direction of a carbohydrate. since the next bond should always
+#start from the C1 atom, we need to "look" in the C1 direction and thus C3 O3 C4 O4 is the start of our
+#vector that we use for this "looking direction" and C1 O1... is the end.
+if {![info exists polbuild_fromsel_text]} {
+    puts stderr "Defaulting selection text \"polbuild_fromsel_text\" to \"name C3 O3 C4 O4\""
+    set polbuild_fromsel_text "name C3 O3 C4 O4"
+}
+if {![info exists polbuild_tosel_text]} {
+    puts stderr "Defaulting selection text \"polbuild_tosel_text\" to \"name C1 O1 HO1 H1\""
+    set polbuild_tosel_text "name C1 O1 HO1 H1"
+}
+
 
 
 proc residue_link_generator { residue_repeat link_repeat nrepeats } {
@@ -162,8 +166,9 @@ proc polymer_psfgen { inputfile linklist patchlist polnumber } {
         set r_before $r
         incr r
         if { $link == "skip" } {continue}
-        puts "Doing link: ${link} P${polnumber}:$r_before P${polnumber}:$r"
-        patch ${link} P${polnumber}:$r_before P${polnumber}:$r
+        puts "Doing link: ${link} P${polnumber}:$r_before --> P${polnumber}:$r "
+        #The fact that the order is different from the puts command is NO typo! This is necessary to agree with CHARMM topology.
+        patch ${link} P${polnumber}:$r P${polnumber}:$r_before
     }
     puts "Links done!" 
     guesscoord

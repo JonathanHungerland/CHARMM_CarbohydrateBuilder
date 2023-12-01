@@ -265,9 +265,9 @@ psfgen) setting patch for last residue to NONE
 Info: generating structure...
 segment complete.
 psfgen) Info: writing psf file ../GALP_solvated.psf
-psfgen) total of 9218 atoms
-psfgen) total of 6160 bonds
-psfgen) total of 3132 angles
+psfgen) total of 9500 atoms
+psfgen) total of 6348 bonds
+psfgen) total of 3226 angles
 psfgen) total of 107 dihedrals
 psfgen) total of 4 impropers
 psfgen) total of 0 explicit exclusions
@@ -281,14 +281,14 @@ psfplugin) Detected a Charmm PSF EXTEnded file
 Info) Using plugin psf for structure file ../GALP_solvated.psf
 psfplugin) no cross-terms defined in PSF file.
 Info) Analyzing structure ...
-Info)    Atoms: 9218
-Info)    Bonds: 6160
-Info)    Angles: 3132  Dihedrals: 107  Impropers: 4  Cross-terms: 0
+Info)    Atoms: 9500
+Info)    Bonds: 6348
+Info)    Angles: 3226  Dihedrals: 107  Impropers: 4  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
-Info)    Residues: 3061
-Info)    Waters: 3059
+Info)    Residues: 3155
+Info)    Waters: 3153
 Info)    Segments: 2
-Info)    Fragments: 3061   Protein: 0   Nucleic: 0
+Info)    Fragments: 3155   Protein: 0   Nucleic: 0
 Info) Using plugin pdb for coordinates from file ../GALP_solvated.pdb
 Info) Finished with coordinate file ../GALP_solvated.pdb.
 Info) Opened coordinate file ../GALP_solvated.pdb for writing.
@@ -299,14 +299,14 @@ psfplugin) Detected a Charmm PSF EXTEnded file
 Info) Using plugin psf for structure file ../GALP_solvated.psf
 psfplugin) no cross-terms defined in PSF file.
 Info) Analyzing structure ...
-Info)    Atoms: 9218
-Info)    Bonds: 6160
-Info)    Angles: 3132  Dihedrals: 107  Impropers: 4  Cross-terms: 0
+Info)    Atoms: 9500
+Info)    Bonds: 6348
+Info)    Angles: 3226  Dihedrals: 107  Impropers: 4  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
-Info)    Residues: 3061
-Info)    Waters: 3059
+Info)    Residues: 3155
+Info)    Waters: 3153
 Info)    Segments: 2
-Info)    Fragments: 3061   Protein: 0   Nucleic: 0
+Info)    Fragments: 3155   Protein: 0   Nucleic: 0
 Info) Using plugin pdb for coordinates from file ../GALP_solvated.pdb
 Info) Finished with coordinate file ../GALP_solvated.pdb.
 1.5
@@ -319,29 +319,29 @@ psfplugin) Detected a Charmm PSF EXTEnded file
 Info) Using plugin psf for structure file ../GALP_solvated.psf
 psfplugin) no cross-terms defined in PSF file.
 Info) Analyzing structure ...
-Info)    Atoms: 9218
-Info)    Bonds: 6160
-Info)    Angles: 3132  Dihedrals: 107  Impropers: 4  Cross-terms: 0
+Info)    Atoms: 9500
+Info)    Bonds: 6348
+Info)    Angles: 3226  Dihedrals: 107  Impropers: 4  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
-Info)    Residues: 3061
-Info)    Waters: 3059
+Info)    Residues: 3155
+Info)    Waters: 3153
 Info)    Segments: 2
-Info)    Fragments: 3061   Protein: 0   Nucleic: 0
+Info)    Fragments: 3155   Protein: 0   Nucleic: 0
 Info) Using plugin pdb for coordinates from file ../GALP_solvated.pdb
 Info) Finished with coordinate file ../GALP_solvated.pdb.
 Autoionize) System net charge before adding ions: 1.0000000558793545e.
 Autoionize) Number of ions required for neutralizing the system: 0 SOD and 1 CLA.
 Autoionize) Desired salt concentration: 1.20 mol/L.
 Autoionize) Ions to be placed:
-Autoionize)   69 SOD
-Autoionize)   70 CLA
+Autoionize)   71 SOD
+Autoionize)   72 CLA
 Autoionize) Required min distance from molecule: 5A.
 Autoionize) Required min distance between ions: 5A.
 Autoionize) Output file prefix '../GALP_ionized'.
 Autoionize) Ions will be added to segname ION.
-Autoionize) Obtained positions for 139 ions.
-Autoionize) Tagged 139 water molecules for deletion.
-Autoionize) Deleted 139 water molecules.
+Autoionize) Obtained positions for 143 ions.
+Autoionize) Tagged 143 water molecules for deletion.
+Autoionize) Deleted 143 water molecules.
 Autoionize) Reading CHARMM topology file...
 psfgen) reading topology file /usr/local/lib/vmd/plugins/noarch/tcl/readcharmmtop1.2/toppar_water_ions_namd.str
 
@@ -365,9 +365,9 @@ segment complete.
 Autoionize) Randomizing ion positions...
 Autoionize) Assigning ion coordinates...
 psfgen) Info: writing psf file ../GALP_ionized.psf
-psfgen) total of 8940 atoms
-psfgen) total of 5882 bonds
-psfgen) total of 2993 angles
+psfgen) total of 9214 atoms
+psfgen) total of 6062 bonds
+psfgen) total of 3083 angles
 psfgen) total of 107 dihedrals
 psfgen) total of 4 impropers
 psfgen) total of 0 explicit exclusions
@@ -381,14 +381,14 @@ psfplugin) Detected a Charmm PSF EXTEnded file
 Info) Using plugin psf for structure file ../GALP_ionized.psf
 psfplugin) no cross-terms defined in PSF file.
 Info) Analyzing structure ...
-Info)    Atoms: 8940
-Info)    Bonds: 5882
-Info)    Angles: 2993  Dihedrals: 107  Impropers: 4  Cross-terms: 0
+Info)    Atoms: 9214
+Info)    Bonds: 6062
+Info)    Angles: 3083  Dihedrals: 107  Impropers: 4  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
-Info)    Residues: 3061
-Info)    Waters: 2920
+Info)    Residues: 3155
+Info)    Waters: 3010
 Info)    Segments: 3
-Info)    Fragments: 3061   Protein: 0   Nucleic: 0
+Info)    Fragments: 3155   Protein: 0   Nucleic: 0
 Info) Using plugin pdb for coordinates from file ../GALP_ionized.pdb
 Info) Finished with coordinate file ../GALP_ionized.pdb.
 Info) Opened coordinate file ../GALP_ionized.pdb for writing.
@@ -399,14 +399,14 @@ psfplugin) Detected a Charmm PSF EXTEnded file
 Info) Using plugin psf for structure file ../GALP_ionized.psf
 psfplugin) no cross-terms defined in PSF file.
 Info) Analyzing structure ...
-Info)    Atoms: 8940
-Info)    Bonds: 5882
-Info)    Angles: 2993  Dihedrals: 107  Impropers: 4  Cross-terms: 0
+Info)    Atoms: 9214
+Info)    Bonds: 6062
+Info)    Angles: 3083  Dihedrals: 107  Impropers: 4  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
-Info)    Residues: 3061
-Info)    Waters: 2920
+Info)    Residues: 3155
+Info)    Waters: 3010
 Info)    Segments: 3
-Info)    Fragments: 3061   Protein: 0   Nucleic: 0
+Info)    Fragments: 3155   Protein: 0   Nucleic: 0
 Info) Using plugin pdb for coordinates from file ../GALP_ionized.pdb
 Info) Finished with coordinate file ../GALP_ionized.pdb.
 Info) VMD for LINUXAMD64, version 1.9.4a51 (December 21, 2020)

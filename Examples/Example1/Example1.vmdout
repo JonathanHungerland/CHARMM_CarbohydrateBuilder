@@ -141,13 +141,13 @@ Info) Using plugin pdb for coordinates from file P1.pdb
 Info) Determining bond structure from distance search ...
 Info) Analyzing structure ...
 Info)    Atoms: 154
-Info)    Bonds: 160
+Info)    Bonds: 166
 Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
 Info)    Residues: 6
 Info)    Waters: 0
 Info)    Segments: 1
-Info)    Fragments: 5   Protein: 0   Nucleic: 0
+Info)    Fragments: 2   Protein: 0   Nucleic: 0
 psfgen) reading topology file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/top_all36_carb_new.rtf
 
 psfgen)  $Id: top_allxx_sugar.inp,v 1.98 2011-07-20 15:03:53 prabhu Exp $
@@ -181,18 +181,18 @@ segment complete.
 psfgen) reading coordinates from pdb file P1.pdb for segment P1
 psfgen) applying patch GALP to 1 residue(s)
 psfgen) applying patch GALP to 1 residue(s)
-Doing link: 14bb P1:1 P1:2
+Doing link: 14bb P1:1 --> P1:2 
 psfgen) applying patch 14BB to 2 residue(s)
-Doing link: 13bb P1:2 P1:3
+Doing link: 13bb P1:2 --> P1:3 
 psfgen) applying patch 13BB to 2 residue(s)
-Doing link: 13bb P1:3 P1:4
+Doing link: 13bb P1:3 --> P1:4 
 psfgen) applying patch 13BB to 2 residue(s)
-Doing link: 14bb P1:4 P1:5
+Doing link: 14bb P1:4 --> P1:5 
 psfgen) applying patch 14BB to 2 residue(s)
-Doing link: 13bb P1:5 P1:6
+Doing link: 13bb P1:5 --> P1:6 
 psfgen) applying patch 13BB to 2 residue(s)
 Links done!
-psfgen) Info: guessing coordinates for 7 atoms (0 non-hydrogen)
+psfgen) Info: guessing coordinates for 3 atoms (0 non-hydrogen)
 psfgen) regenerating all angles
 psfgen) regenerating all dihedrals
 psfgen) Info: writing psf file P1_psfgen.psf
@@ -343,13 +343,13 @@ Info) Using plugin pdb for coordinates from file P2.pdb
 Info) Determining bond structure from distance search ...
 Info) Analyzing structure ...
 Info)    Atoms: 154
-Info)    Bonds: 156
+Info)    Bonds: 163
 Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
 Info)    Residues: 6
 Info)    Waters: 0
 Info)    Segments: 1
-Info)    Fragments: 4   Protein: 0   Nucleic: 0
+Info)    Fragments: 2   Protein: 0   Nucleic: 0
 psfgen) reading topology file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/top_all36_carb_new.rtf
 
 psfgen)  $Id: top_allxx_sugar.inp,v 1.98 2011-07-20 15:03:53 prabhu Exp $
@@ -560,18 +560,18 @@ segment complete.
 psfgen) reading coordinates from pdb file P2.pdb for segment P2
 psfgen) applying patch GALP to 1 residue(s)
 psfgen) applying patch GALP to 1 residue(s)
-Doing link: 14bb P2:1 P2:2
+Doing link: 14bb P2:1 --> P2:2 
 psfgen) applying patch 14BB to 2 residue(s)
-Doing link: 13bb P2:2 P2:3
+Doing link: 13bb P2:2 --> P2:3 
 psfgen) applying patch 13BB to 2 residue(s)
-Doing link: 13bb P2:3 P2:4
+Doing link: 13bb P2:3 --> P2:4 
 psfgen) applying patch 13BB to 2 residue(s)
-Doing link: 14bb P2:4 P2:5
+Doing link: 14bb P2:4 --> P2:5 
 psfgen) applying patch 14BB to 2 residue(s)
-Doing link: 13bb P2:5 P2:6
+Doing link: 13bb P2:5 --> P2:6 
 psfgen) applying patch 13BB to 2 residue(s)
 Links done!
-psfgen) Info: guessing coordinates for 7 atoms (0 non-hydrogen)
+psfgen) Info: guessing coordinates for 3 atoms (0 non-hydrogen)
 psfgen) regenerating all angles
 psfgen) regenerating all dihedrals
 psfgen) Info: writing psf file P2_psfgen.psf
@@ -787,9 +787,9 @@ psfgen) setting patch for last residue to NONE
 Info: generating structure...
 segment complete.
 psfgen) Info: writing psf file solvated_layer.psf
-psfgen) total of 31010 atoms
-psfgen) total of 20784 bonds
-psfgen) total of 10806 angles
+psfgen) total of 29861 atoms
+psfgen) total of 20018 bonds
+psfgen) total of 10423 angles
 psfgen) total of 880 dihedrals
 psfgen) total of 20 impropers
 psfgen) total of 0 explicit exclusions
@@ -803,14 +803,14 @@ psfplugin) Detected a Charmm PSF EXTEnded file
 Info) Using plugin psf for structure file solvated_layer.psf
 psfplugin) no cross-terms defined in PSF file.
 Info) Analyzing structure ...
-Info)    Atoms: 31010
-Info)    Bonds: 20784
-Info)    Angles: 10806  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Atoms: 29861
+Info)    Bonds: 20018
+Info)    Angles: 10423  Dihedrals: 880  Impropers: 20  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
-Info)    Residues: 10248
-Info)    Waters: 10236
+Info)    Residues: 9865
+Info)    Waters: 9853
 Info)    Segments: 6
-Info)    Fragments: 10238   Protein: 0   Nucleic: 0
+Info)    Fragments: 9855   Protein: 0   Nucleic: 0
 Info) Using plugin pdb for coordinates from file solvated_layer.pdb
 Info) Finished with coordinate file solvated_layer.pdb.
 Info) Opened coordinate file solvated_layer.pdb for writing.
@@ -822,14 +822,14 @@ psfplugin) Detected a Charmm PSF EXTEnded file
 Info) Using plugin psf for structure file solvated_layer.psf
 psfplugin) no cross-terms defined in PSF file.
 Info) Analyzing structure ...
-Info)    Atoms: 31010
-Info)    Bonds: 20784
-Info)    Angles: 10806  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Atoms: 29861
+Info)    Bonds: 20018
+Info)    Angles: 10423  Dihedrals: 880  Impropers: 20  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
-Info)    Residues: 10248
-Info)    Waters: 10236
+Info)    Residues: 9865
+Info)    Waters: 9853
 Info)    Segments: 6
-Info)    Fragments: 10238   Protein: 0   Nucleic: 0
+Info)    Fragments: 9855   Protein: 0   Nucleic: 0
 Info) Using plugin pdb for coordinates from file solvated_layer.pdb
 Ensuring neutralization requires putting 0 cations and 0 anions.
 Autoionize) Reading solvated_layer.psf/solvated_layer.pdb...
@@ -841,27 +841,27 @@ psfplugin) Detected a Charmm PSF EXTEnded file
 Info) Using plugin psf for structure file solvated_layer.psf
 psfplugin) no cross-terms defined in PSF file.
 Info) Analyzing structure ...
-Info)    Atoms: 31010
-Info)    Bonds: 20784
-Info)    Angles: 10806  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Atoms: 29861
+Info)    Bonds: 20018
+Info)    Angles: 10423  Dihedrals: 880  Impropers: 20  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
-Info)    Residues: 10248
-Info)    Waters: 10236
+Info)    Residues: 9865
+Info)    Waters: 9853
 Info)    Segments: 6
-Info)    Fragments: 10238   Protein: 0   Nucleic: 0
+Info)    Fragments: 9855   Protein: 0   Nucleic: 0
 Info) Using plugin pdb for coordinates from file solvated_layer.pdb
 Info) Finished with coordinate file solvated_layer.pdb.
 Autoionize) System net charge before adding ions: 2.682209014892578e-7e.
 Autoionize) Ions to be placed:
-Autoionize)   29 SOD
-Autoionize)   29 CLA
+Autoionize)   28 SOD
+Autoionize)   28 CLA
 Autoionize) Required min distance from molecule: 5A.
 Autoionize) Required min distance between ions: 5A.
 Autoionize) Output file prefix 'simple_ionized'.
 Autoionize) Ions will be added to segname ION.
-Autoionize) Obtained positions for 58 ions.
-Autoionize) Tagged 58 water molecules for deletion.
-Autoionize) Deleted 58 water molecules.
+Autoionize) Obtained positions for 56 ions.
+Autoionize) Tagged 56 water molecules for deletion.
+Autoionize) Deleted 56 water molecules.
 Autoionize) Reading CHARMM topology file...
 psfgen) reading topology file /usr/local/lib/vmd/plugins/noarch/tcl/readcharmmtop1.2/toppar_water_ions_namd.str
 
@@ -885,9 +885,9 @@ segment complete.
 Autoionize) Randomizing ion positions...
 Autoionize) Assigning ion coordinates...
 psfgen) Info: writing psf file simple_ionized.psf
-psfgen) total of 30894 atoms
-psfgen) total of 20668 bonds
-psfgen) total of 10748 angles
+psfgen) total of 29749 atoms
+psfgen) total of 19906 bonds
+psfgen) total of 10367 angles
 psfgen) total of 880 dihedrals
 psfgen) total of 20 impropers
 psfgen) total of 0 explicit exclusions
@@ -901,14 +901,14 @@ psfplugin) Detected a Charmm PSF EXTEnded file
 Info) Using plugin psf for structure file simple_ionized.psf
 psfplugin) no cross-terms defined in PSF file.
 Info) Analyzing structure ...
-Info)    Atoms: 30894
-Info)    Bonds: 20668
-Info)    Angles: 10748  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Atoms: 29749
+Info)    Bonds: 19906
+Info)    Angles: 10367  Dihedrals: 880  Impropers: 20  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
-Info)    Residues: 10248
-Info)    Waters: 10178
+Info)    Residues: 9865
+Info)    Waters: 9797
 Info)    Segments: 7
-Info)    Fragments: 10238   Protein: 0   Nucleic: 0
+Info)    Fragments: 9855   Protein: 0   Nucleic: 0
 Info) Using plugin pdb for coordinates from file simple_ionized.pdb
 Info) Finished with coordinate file simple_ionized.pdb.
 Info) Opened coordinate file simple_ionized.pdb for writing.
@@ -921,14 +921,14 @@ psfplugin) Detected a Charmm PSF EXTEnded file
 Info) Using plugin psf for structure file simple_ionized.psf
 psfplugin) no cross-terms defined in PSF file.
 Info) Analyzing structure ...
-Info)    Atoms: 30894
-Info)    Bonds: 20668
-Info)    Angles: 10748  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Atoms: 29749
+Info)    Bonds: 19906
+Info)    Angles: 10367  Dihedrals: 880  Impropers: 20  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
-Info)    Residues: 10248
-Info)    Waters: 10178
+Info)    Residues: 9865
+Info)    Waters: 9797
 Info)    Segments: 7
-Info)    Fragments: 10238   Protein: 0   Nucleic: 0
+Info)    Fragments: 9855   Protein: 0   Nucleic: 0
 Info) Using plugin pdb for coordinates from file simple_ionized.pdb
 psfplugin) Structure requires EXTended PSF format
 psfplugin) Writing angles/dihedrals/impropers...
@@ -940,14 +940,14 @@ psfplugin) Detected a Charmm PSF EXTEnded file
 Info) Using plugin psf for structure file centered.psf
 psfplugin) no cross-terms defined in PSF file.
 Info) Analyzing structure ...
-Info)    Atoms: 30894
-Info)    Bonds: 20668
-Info)    Angles: 10748  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Atoms: 29749
+Info)    Bonds: 19906
+Info)    Angles: 10367  Dihedrals: 880  Impropers: 20  Cross-terms: 0
 Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
-Info)    Residues: 10248
-Info)    Waters: 10178
+Info)    Residues: 9865
+Info)    Waters: 9797
 Info)    Segments: 7
-Info)    Fragments: 10238   Protein: 0   Nucleic: 0
+Info)    Fragments: 9855   Protein: 0   Nucleic: 0
 Info) Using plugin pdb for coordinates from file centered.pdb
 Info) Finished with coordinate file simple_ionized.pdb.
 Info) Finished with coordinate file centered.pdb.

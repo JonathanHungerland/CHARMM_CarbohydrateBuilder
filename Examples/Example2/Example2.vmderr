@@ -5,27 +5,27 @@ Defaulting "maxdist" for next-residue-placement to 6.5 Angström.
 Defaulting "allowed_rotation" for next-residue-placement to 15 degrees.
 Defaulting "max_residue_tries" for placing the next residue to 30.
 Defaulting probability "bglc_protonation_prob" for protonating residue BGLC to 0.0
+Defaulting number "nrepreats" of basic unit polymer repeats to 3.
 Defaulting selection text "polbuild_fromsel_text" to "name C3 O3 C4 O4"
 Defaulting selection text "polbuild_tosel_text" to "name C1 O1 HO1 H1"
-Defaulting number "nrepreats" of basic unit polymer repeats to 3.
 Defaulting "space_per_polymer" to 10^3 Angström.
 Using build_method "bored_bricklayer"
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P1 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P1 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P2 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P2 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P3 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P3 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P4 were, on average, succesfully placed after 1.5555555555555556 tries.
+Polymer residues of segid P4 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -33,11 +33,11 @@ Polymer residues of segid P5 were, on average, succesfully placed after 1.222222
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P6 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P6 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P7 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P7 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -45,55 +45,55 @@ Polymer residues of segid P8 were, on average, succesfully placed after 1.222222
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P9 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P9 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P10 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P10 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P11 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P11 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P12 were, on average, succesfully placed after 1.5555555555555556 tries.
+Polymer residues of segid P12 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P13 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P13 were, on average, succesfully placed after 1.7777777777777777 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P14 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P14 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P15 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P15 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P16 were, on average, succesfully placed after 1.6666666666666667 tries.
+Polymer residues of segid P16 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P17 were, on average, succesfully placed after 0.8888888888888888 tries.
+Polymer residues of segid P17 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P18 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P18 were, on average, succesfully placed after 2.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P19 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P19 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P20 were, on average, succesfully placed after 1.4444444444444444 tries.
+Polymer residues of segid P20 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P21 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P21 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -101,19 +101,19 @@ Polymer residues of segid P22 were, on average, succesfully placed after 1.44444
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P23 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P23 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P24 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P24 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P25 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P25 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P26 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P26 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -121,19 +121,19 @@ Polymer residues of segid P27 were, on average, succesfully placed after 1.33333
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P28 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P28 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P29 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P29 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P30 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P30 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P31 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P31 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -141,11 +141,11 @@ Polymer residues of segid P32 were, on average, succesfully placed after 1.33333
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P33 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P33 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P34 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P34 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -153,43 +153,43 @@ Polymer residues of segid P35 were, on average, succesfully placed after 1.11111
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P36 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P36 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P37 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P37 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P38 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P38 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P39 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P39 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P40 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P40 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P41 were, on average, succesfully placed after 0.8888888888888888 tries.
+Polymer residues of segid P41 were, on average, succesfully placed after 1.8888888888888888 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P42 were, on average, succesfully placed after 0.8888888888888888 tries.
+Polymer residues of segid P42 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P43 were, on average, succesfully placed after 1.4444444444444444 tries.
+Polymer residues of segid P43 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P44 were, on average, succesfully placed after 0.8888888888888888 tries.
+Polymer residues of segid P44 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P45 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P45 were, on average, succesfully placed after 0.8888888888888888 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -197,11 +197,11 @@ Polymer residues of segid P46 were, on average, succesfully placed after 1.11111
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P47 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P47 were, on average, succesfully placed after 0.8888888888888888 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P48 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P48 were, on average, succesfully placed after 1.7777777777777777 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -209,7 +209,7 @@ Polymer residues of segid P49 were, on average, succesfully placed after 1.33333
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P50 were, on average, succesfully placed after 1.5555555555555556 tries.
+Polymer residues of segid P50 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -217,11 +217,11 @@ Polymer residues of segid P51 were, on average, succesfully placed after 1.33333
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P52 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P52 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P53 were, on average, succesfully placed after 0.8888888888888888 tries.
+Polymer residues of segid P53 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -229,39 +229,39 @@ Polymer residues of segid P54 were, on average, succesfully placed after 1.11111
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P55 were, on average, succesfully placed after 1.7777777777777777 tries.
+Polymer residues of segid P55 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P56 were, on average, succesfully placed after 1.6666666666666667 tries.
+Polymer residues of segid P56 were, on average, succesfully placed after 1.8888888888888888 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P57 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P57 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P58 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P58 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P59 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P59 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P60 were, on average, succesfully placed after 1.4444444444444444 tries.
+Polymer residues of segid P60 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P61 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P61 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P62 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P62 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P63 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P63 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -277,7 +277,7 @@ Polymer residues of segid P66 were, on average, succesfully placed after 0.88888
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P67 were, on average, succesfully placed after 0.8888888888888888 tries.
+Polymer residues of segid P67 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -285,47 +285,47 @@ Polymer residues of segid P68 were, on average, succesfully placed after 1.22222
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P69 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P69 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P70 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P70 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P71 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P71 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P72 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P72 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P73 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P73 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P74 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P74 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P75 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P75 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P76 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P76 were, on average, succesfully placed after 1.8888888888888888 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P77 were, on average, succesfully placed after 1.4444444444444444 tries.
+Polymer residues of segid P77 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P78 were, on average, succesfully placed after 1.7777777777777777 tries.
+Polymer residues of segid P78 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P79 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P79 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -337,11 +337,11 @@ Polymer residues of segid P81 were, on average, succesfully placed after 1.11111
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P82 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P82 were, on average, succesfully placed after 2.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P83 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P83 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -349,47 +349,47 @@ Polymer residues of segid P84 were, on average, succesfully placed after 1.11111
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P85 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P85 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P86 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P86 were, on average, succesfully placed after 0.8888888888888888 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P87 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P87 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P88 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P88 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P89 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P89 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P90 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P90 were, on average, succesfully placed after 0.8888888888888888 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P91 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P91 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P92 were, on average, succesfully placed after 0.8888888888888888 tries.
+Polymer residues of segid P92 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P93 were, on average, succesfully placed after 1.4444444444444444 tries.
+Polymer residues of segid P93 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P94 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P94 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P95 were, on average, succesfully placed after 0.8888888888888888 tries.
+Polymer residues of segid P95 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -397,19 +397,19 @@ Polymer residues of segid P96 were, on average, succesfully placed after 1.22222
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P97 were, on average, succesfully placed after 1.4444444444444444 tries.
+Polymer residues of segid P97 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P98 were, on average, succesfully placed after 1.5555555555555556 tries.
+Polymer residues of segid P98 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P99 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P99 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P100 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P100 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -417,55 +417,55 @@ Polymer residues of segid P101 were, on average, succesfully placed after 1.1111
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P102 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P102 were, on average, succesfully placed after 0.8888888888888888 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P103 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P103 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P104 were, on average, succesfully placed after 1.5555555555555556 tries.
+Polymer residues of segid P104 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P105 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P105 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P106 were, on average, succesfully placed after 0.8888888888888888 tries.
+Polymer residues of segid P106 were, on average, succesfully placed after 2.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P107 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P107 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P108 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P108 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P109 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P109 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P110 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P110 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P111 were, on average, succesfully placed after 1.5555555555555556 tries.
+Polymer residues of segid P111 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P112 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P112 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P113 were, on average, succesfully placed after 1.6666666666666667 tries.
+Polymer residues of segid P113 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P114 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P114 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -473,23 +473,23 @@ Polymer residues of segid P115 were, on average, succesfully placed after 1.3333
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P116 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P116 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P117 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P117 were, on average, succesfully placed after 1.8888888888888888 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P118 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P118 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P119 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P119 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P120 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P120 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -497,7 +497,7 @@ Polymer residues of segid P121 were, on average, succesfully placed after 1.0 tr
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P122 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P122 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -505,95 +505,95 @@ Polymer residues of segid P123 were, on average, succesfully placed after 1.2222
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P124 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P124 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P125 were, on average, succesfully placed after 1.5555555555555556 tries.
+Polymer residues of segid P125 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P126 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P126 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P127 were, on average, succesfully placed after 1.5555555555555556 tries.
+Polymer residues of segid P127 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P128 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P128 were, on average, succesfully placed after 2.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P129 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P129 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P130 were, on average, succesfully placed after 1.4444444444444444 tries.
+Polymer residues of segid P130 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P131 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P131 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P132 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P132 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P133 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P133 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P134 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P134 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P135 were, on average, succesfully placed after 1.5555555555555556 tries.
+Polymer residues of segid P135 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P136 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P136 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P137 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P137 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P138 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P138 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P139 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P139 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P140 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P140 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P141 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P141 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P142 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P142 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P143 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P143 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P144 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P144 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P145 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P145 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P146 were, on average, succesfully placed after 1.7777777777777777 tries.
+Polymer residues of segid P146 were, on average, succesfully placed after 2.111111111111111 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -601,23 +601,23 @@ Polymer residues of segid P147 were, on average, succesfully placed after 1.3333
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P148 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P148 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P149 were, on average, succesfully placed after 1.4444444444444444 tries.
+Polymer residues of segid P149 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P150 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P150 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P151 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P151 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P152 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P152 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -625,15 +625,15 @@ Polymer residues of segid P153 were, on average, succesfully placed after 1.4444
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P154 were, on average, succesfully placed after 1.6666666666666667 tries.
+Polymer residues of segid P154 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P155 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P155 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P156 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P156 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -641,7 +641,7 @@ Polymer residues of segid P157 were, on average, succesfully placed after 1.4444
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P158 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P158 were, on average, succesfully placed after 2.111111111111111 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -649,7 +649,7 @@ Polymer residues of segid P159 were, on average, succesfully placed after 1.4444
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P160 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P160 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -657,63 +657,63 @@ Polymer residues of segid P161 were, on average, succesfully placed after 1.1111
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P162 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P162 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P163 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P163 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P164 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P164 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P165 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P165 were, on average, succesfully placed after 1.3333333333333333 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P166 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P166 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P167 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P167 were, on average, succesfully placed after 0.8888888888888888 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P168 were, on average, succesfully placed after 1.6666666666666667 tries.
+Polymer residues of segid P168 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P169 were, on average, succesfully placed after 0.8888888888888888 tries.
+Polymer residues of segid P169 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P170 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P170 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P171 were, on average, succesfully placed after 1.4444444444444444 tries.
+Polymer residues of segid P171 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P172 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P172 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P173 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P173 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P174 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P174 were, on average, succesfully placed after 1.5555555555555556 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P175 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P175 were, on average, succesfully placed after 1.0 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P176 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P176 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -721,7 +721,7 @@ Polymer residues of segid P177 were, on average, succesfully placed after 1.1111
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P178 were, on average, succesfully placed after 1.4444444444444444 tries.
+Polymer residues of segid P178 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -729,7 +729,7 @@ Polymer residues of segid P179 were, on average, succesfully placed after 1.1111
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P180 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P180 were, on average, succesfully placed after 1.6666666666666667 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -737,35 +737,35 @@ Polymer residues of segid P181 were, on average, succesfully placed after 1.1111
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P182 were, on average, succesfully placed after 1.7777777777777777 tries.
+Polymer residues of segid P182 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P183 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P183 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P184 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P184 were, on average, succesfully placed after 1.1111111111111112 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P185 were, on average, succesfully placed after 1.1111111111111112 tries.
+Polymer residues of segid P185 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P186 were, on average, succesfully placed after 1.2222222222222223 tries.
+Polymer residues of segid P186 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P187 were, on average, succesfully placed after 0.8888888888888888 tries.
+Polymer residues of segid P187 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P188 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P188 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P189 were, on average, succesfully placed after 1.0 tries.
+Polymer residues of segid P189 were, on average, succesfully placed after 1.2222222222222223 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
@@ -777,7 +777,7 @@ Polymer residues of segid P191 were, on average, succesfully placed after 1.0 tr
 Building polymer: GALN GLCA GALN GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P192 were, on average, succesfully placed after 1.6666666666666667 tries.
+Polymer residues of segid P192 were, on average, succesfully placed after 1.4444444444444444 tries.
 Building polymer layer.
 Polymers merged.
 All polymers merged. Calling build method bored_bricklayer

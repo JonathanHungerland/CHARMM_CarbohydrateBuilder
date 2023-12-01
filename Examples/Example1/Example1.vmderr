@@ -5,9 +5,9 @@ Defaulting "maxdist" for next-residue-placement to 6.5 Angström.
 Defaulting "allowed_rotation" for next-residue-placement to 15 degrees.
 Defaulting "max_residue_tries" for placing the next residue to 30.
 Defaulting probability "bglc_protonation_prob" for protonating residue BGLC to 0.0
+Defaulting number "nrepreats" of basic unit polymer repeats to 3.
 Defaulting selection text "polbuild_fromsel_text" to "name C3 O3 C4 O4"
 Defaulting selection text "polbuild_tosel_text" to "name C1 O1 HO1 H1"
-Defaulting number "nrepreats" of basic unit polymer repeats to 3.
 Using build_method "angry_baby"
 Defaulting "maximum_layer_throws" for polymer layer to 100.
 Defaulting "maximum_polymer_throws" for single polymers to 100.
@@ -16,19 +16,19 @@ Defaulting "do_we_neutralize" to "yes".
 Building polymer: GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P1 were, on average, succesfully placed after 1.3333333333333333 tries.
+Polymer residues of segid P1 were, on average, succesfully placed after 1.5 tries.
 Building polymer: GALN GLCA GALN GALN GLCA GALN
 With patches    : GALP NONE NONE GALP NONE NONE
 Linked by       : skip 14bb 13bb 13bb 14bb 13bb
-Polymer residues of segid P2 were, on average, succesfully placed after 1.1666666666666667 tries.
+Polymer residues of segid P2 were, on average, succesfully placed after 0.8333333333333334 tries.
 Building polymer layer.
 Polymers merged.
 All polymers merged. Calling build method angry_baby
 Throwing polymers around until they don't clash.
 Layer throw 1  has 2 clashing segments. Rethrowing single polymers.
 Polymer ... fixed after ... throws
-P1:6..P2:0..Success. No clash.
+P1:8..P2:0..Success. No clash.
 
 Writing layer.
-Requiring 29.17580781996816 ions to meet the necessary salt concentration which was rounded to 29.
-Paying attention to deletion of water molecules by autoionize, effective concentration of 0.14994576284110972 will result.
+Requiring 28.08413779309753 ions to meet the necessary salt concentration which was rounded to 28.
+Paying attention to deletion of water molecules by autoionize, effective concentration of 0.15040544880913867 will result.
