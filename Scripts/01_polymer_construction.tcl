@@ -45,7 +45,7 @@ proc residue_link_generator { residue_repeat link_repeat nrepeats } {
     global bglc_protonation_prob all_residue_types
     
     set residuelist {}
-    set linklist {}
+    set linklist [list "skip"]
     set patchlist {}
     for {set i 0} {$i<$nrepeats} {incr i} {
         foreach residue $residue_repeat link $link_repeat {
@@ -157,21 +157,13 @@ proc polymer_psfgen { inputfile linklist patchlist polnumber } {
     }
 
     #link the residues
-    set r 0
+    set r 1
     foreach link $linklist {
+        set r_before $r
         incr r
-        set r_next [expr $r + 1]
-        if { [string match {1[3,4][A,P,N]N2P} $link] } {
-           patch N2PNXT P${polnumber}:$r
-        }
-        if { [string match {13N2P[A,P,N]} $link] } {
-           patch 13N2PBFR P${polnumber}:${r_next}
-        } elseif { [string match {14N2P[A,P,N]} $link] } {
-           patch 14N2PBFR P${polnumber}:${r_next}
-        }
-
-        puts "Doing link: ${link} P${polnumber}:$r P${polnumber}:$r_next"
-        patch ${link} P${polnumber}:$r P${polnumber}:$r_next
+        if { $link == "skip" } {continue}
+        puts "Doing link: ${link} P${polnumber}:$r_before P${polnumber}:$r"
+        patch ${link} P${polnumber}:$r_before P${polnumber}:$r
     }
     puts "Links done!" 
     guesscoord
