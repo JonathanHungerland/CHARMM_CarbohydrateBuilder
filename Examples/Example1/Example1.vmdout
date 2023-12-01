@@ -1,0 +1,957 @@
+Info) VMD for LINUXAMD64, version 1.9.4a51 (December 21, 2020)
+Info) http://www.ks.uiuc.edu/Research/vmd/                         
+Info) Email questions and bug reports to vmd@ks.uiuc.edu           
+Info) Please include this reference in published work using VMD:   
+Info)    Humphrey, W., Dalke, A. and Schulten, K., `VMD - Visual   
+Info)    Molecular Dynamics', J. Molec. Graphics 1996, 14.1, 33-38.
+Info) -------------------------------------------------------------
+Info) Multithreading available, 64 CPUs detected.
+Info)   CPU features: SSE2 SSE4.1 AVX AVX2 FMA F16 AVX512F AVX512CD HT 
+Info) Free system memory: 497GB (98%)
+Info) Creating CUDA device pool and initializing hardware...
+Info) Detected 1 available CUDA accelerator::
+Info) [0] NVIDIA GeForce RTX 3090 82 SM_8.6 1.7 GHz, 24GB RAM SP32 KT AE2 ZC
+Info) Detected 1 available TachyonL/OptiX ray tracing accelerator
+Info)   Compiling  OptiX shaders on 1 target GPU...
+Info) Dynamically loaded 3 plugins in directory:
+Info) /usr/local/lib/vmd/plugins/LINUXAMD64/molfile
+angry_baby
+12.0
+300
+20
+SOD
+CLA
+0.15
+/data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData
+GALP GLCA GALN
+14 13 13
+2
+Info) Using plugin pdb for structure file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Using plugin pdb for coordinates from file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 29
+Info)    Bonds: 29
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for structure file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GLCA.pdb
+Info) Using plugin pdb for coordinates from file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GLCA.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GLCA.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 19
+Info)    Bonds: 19
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for structure file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Using plugin pdb for coordinates from file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 29
+Info)    Bonds: 29
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for structure file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Using plugin pdb for coordinates from file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 29
+Info)    Bonds: 29
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for structure file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GLCA.pdb
+Info) Using plugin pdb for coordinates from file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GLCA.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GLCA.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 19
+Info)    Bonds: 19
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for structure file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Using plugin pdb for coordinates from file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 29
+Info)    Bonds: 29
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) ======================
+Info) Please cite TopoTools as:
+Info) Axel Kohlmeyer & Josh Vermaas, (2019). TopoTools: Release 1.8
+Info) https://doi.org/10.5281/zenodo.598373
+Info) ======================
+
+Info) Analyzing structure ...
+Info)    Atoms: 154
+Info)    Bonds: 154
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 1  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 6
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 6   Protein: 0   Nucleic: 0
+Info) Opened coordinate file lego_set_1.pdb for writing.
+Info) Finished with coordinate file lego_set_1.pdb.
+Info) Using plugin pdb for structure file lego_set_1.pdb
+Info) Using plugin pdb for coordinates from file lego_set_1.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 154
+Info)    Bonds: 154
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 6
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 6   Protein: 0   Nucleic: 0
+Info) Opened coordinate file P1.pdb for writing.
+Info) Finished with coordinate file P1.pdb.
+psfgen) clearing structure, preserving topology and aliases
+Info) Using plugin pdb for structure file P1.pdb
+Info) Using plugin pdb for coordinates from file P1.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 154
+Info)    Bonds: 160
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 6
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 5   Protein: 0   Nucleic: 0
+psfgen) reading topology file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/top_all36_carb_new.rtf
+
+psfgen)  $Id: top_allxx_sugar.inp,v 1.98 2011-07-20 15:03:53 prabhu Exp $
+psfgen) >>>>>>>>>>>> All-hydrogen topologies used in the <<<<<<<<<<<<<<<<
+psfgen) >>>>> development of the CHARMM carbohydrate  force field<<<<<<<<
+psfgen) >>>>>>>>>>>>>>>>>>>>>>>>> June 2009 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+psfgen) >>>>>>>> Direct comments to Alexander D. MacKerell Jr. <<<<<<<<<<
+psfgen) >>>>>>>>>> via the CHARMM web site: www.charmm.org <<<<<<<<<<<<<<
+psfgen) >>>>>>>>>>>>>>> parameter set discussion forum <<<<<<<<<<<<<<<<<<
+psfgen) 
+psfgen) Created by CHARMM version 32 1
+psfgen) aliasing residue GALN to BGALNA in topology definitions
+psfgen) aliasing residue GLCA to BGLCA in topology definitions
+psfgen) aliasing residue GALN atom N2 to N
+psfgen) aliasing residue GALN atom HN2 to HN
+psfgen) aliasing residue GALN atom C7 to C
+psfgen) aliasing residue GALN atom O7 to O
+psfgen) aliasing residue GALN atom C8 to CT
+psfgen) aliasing residue GALN atom H81 to HT1
+psfgen) aliasing residue GALN atom H82 to HT2
+psfgen) aliasing residue GALN atom H83 to HT3
+psfgen) aliasing residue GLCA atom O6A to O61
+psfgen) aliasing residue GLCA atom O6B to O62
+psfgen) building segment P1
+psfgen) setting patch for first residue to NONE
+psfgen) setting patch for last residue to NONE
+psfgen) reading residues from pdb file P1.pdb
+psfgen) extracted 6 residues from pdb file
+Info: generating structure...
+segment complete.
+psfgen) reading coordinates from pdb file P1.pdb for segment P1
+psfgen) applying patch GALP to 1 residue(s)
+psfgen) applying patch GALP to 1 residue(s)
+Doing link: 14bb P1:1 P1:2
+psfgen) applying patch 14BB to 2 residue(s)
+Doing link: 13bb P1:2 P1:3
+psfgen) applying patch 13BB to 2 residue(s)
+Doing link: 13bb P1:3 P1:4
+psfgen) applying patch 13BB to 2 residue(s)
+Doing link: 14bb P1:4 P1:5
+psfgen) applying patch 14BB to 2 residue(s)
+Doing link: 13bb P1:5 P1:6
+psfgen) applying patch 13BB to 2 residue(s)
+Links done!
+psfgen) Info: guessing coordinates for 7 atoms (0 non-hydrogen)
+psfgen) regenerating all angles
+psfgen) regenerating all dihedrals
+psfgen) Info: writing psf file P1_psfgen.psf
+psfgen) total of 151 atoms
+psfgen) total of 156 bonds
+psfgen) total of 285 angles
+psfgen) total of 440 dihedrals
+psfgen) total of 10 impropers
+psfgen) total of 0 explicit exclusions
+psfgen) Structure requires EXTended PSF format
+psfgen) total of 0 cross-terms
+psfgen) Info: psf file complete.
+psfgen) Info: writing pdb file P1_psfgen.pdb
+psfgen) Info: Atoms with guessed coordinates will have occupancy of 0.0.
+psfgen) Info: pdb file complete.
+
+
+
+
+
+
+
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file P1_psfgen.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 151
+Info)    Bonds: 156
+Info)    Angles: 285  Dihedrals: 440  Impropers: 10  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 6
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file P1_psfgen.pdb
+psfplugin) Structure requires EXTended PSF format
+psfplugin) Writing angles/dihedrals/impropers...
+Info) Opened coordinate file P1_psfgen.psf for writing.
+Info) Finished with coordinate file P1_psfgen.psf.
+Info) Opened coordinate file P1_psfgen.pdb for writing.
+Info) Finished with coordinate file P1_psfgen.pdb.
+Info) Using plugin pdb for structure file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Using plugin pdb for coordinates from file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 29
+Info)    Bonds: 29
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for structure file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GLCA.pdb
+Info) Using plugin pdb for coordinates from file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GLCA.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GLCA.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 19
+Info)    Bonds: 19
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for structure file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Using plugin pdb for coordinates from file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 29
+Info)    Bonds: 29
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for structure file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Using plugin pdb for coordinates from file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 29
+Info)    Bonds: 29
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for structure file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GLCA.pdb
+Info) Using plugin pdb for coordinates from file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GLCA.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GLCA.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 19
+Info)    Bonds: 19
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for structure file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Using plugin pdb for coordinates from file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb
+Info) Determining bond structure from distance search ...
+Info) Finished with coordinate file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/GALN.pdb.
+Info) Analyzing structure ...
+Info)    Atoms: 29
+Info)    Bonds: 29
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 1
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Analyzing structure ...
+Info)    Atoms: 154
+Info)    Bonds: 154
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 1  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 6
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 6   Protein: 0   Nucleic: 0
+Info) Opened coordinate file lego_set_2.pdb for writing.
+Info) Finished with coordinate file lego_set_2.pdb.
+Info) Using plugin pdb for structure file lego_set_2.pdb
+Info) Using plugin pdb for coordinates from file lego_set_2.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 154
+Info)    Bonds: 154
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 6
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 6   Protein: 0   Nucleic: 0
+Info) Opened coordinate file P2.pdb for writing.
+Info) Finished with coordinate file P2.pdb.
+psfgen) clearing structure, preserving topology and aliases
+Info) Using plugin pdb for structure file P2.pdb
+Info) Using plugin pdb for coordinates from file P2.pdb
+Info) Determining bond structure from distance search ...
+Info) Analyzing structure ...
+Info)    Atoms: 154
+Info)    Bonds: 156
+Info)    Angles: 0  Dihedrals: 0  Impropers: 0  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 6
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 4   Protein: 0   Nucleic: 0
+psfgen) reading topology file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/top_all36_carb_new.rtf
+
+psfgen)  $Id: top_allxx_sugar.inp,v 1.98 2011-07-20 15:03:53 prabhu Exp $
+psfgen) >>>>>>>>>>>> All-hydrogen topologies used in the <<<<<<<<<<<<<<<<
+psfgen) >>>>> development of the CHARMM carbohydrate  force field<<<<<<<<
+psfgen) >>>>>>>>>>>>>>>>>>>>>>>>> June 2009 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+psfgen) >>>>>>>> Direct comments to Alexander D. MacKerell Jr. <<<<<<<<<<
+psfgen) >>>>>>>>>> via the CHARMM web site: www.charmm.org <<<<<<<<<<<<<<
+psfgen) >>>>>>>>>>>>>>> parameter set discussion forum <<<<<<<<<<<<<<<<<<
+psfgen) 
+psfgen) Created by CHARMM version 32 1
+psfgen) duplicate type key CC301
+psfgen) duplicate type key CC311
+psfgen) duplicate type key CC312
+psfgen) duplicate type key CC3161
+psfgen) duplicate type key CC3162
+psfgen) duplicate type key CC3163
+psfgen) duplicate type key CC321
+psfgen) duplicate type key CC322
+psfgen) duplicate type key CC3263
+psfgen) duplicate type key CC331
+psfgen) duplicate type key CC2O1
+psfgen) duplicate type key CC2O2
+psfgen) duplicate type key CC2O3
+psfgen) duplicate type key CC2O4
+psfgen) duplicate type key HCA1
+psfgen) duplicate type key HCA2
+psfgen) duplicate type key HCA3
+psfgen) duplicate type key HCP1
+psfgen) duplicate type key HCR1
+psfgen) duplicate type key OC311
+psfgen) duplicate type key OC3C61
+psfgen) duplicate type key OC301
+psfgen) duplicate type key OC302
+psfgen) duplicate type key OC2D1
+psfgen) duplicate type key OC2D2
+psfgen) duplicate type key OC2D3
+psfgen) duplicate type key OC2D4
+psfgen) duplicate type key NC2D1
+psfgen) duplicate type key CC321C
+psfgen) duplicate type key HCA3M
+psfgen) duplicate type key HCP1M
+psfgen) duplicate type key OC311M
+psfgen) duplicate type key CC321D
+psfgen) duplicate type key CC311C
+psfgen) duplicate type key CC311D
+psfgen) duplicate type key OC3C5M
+psfgen) duplicate type key CC322C
+psfgen) duplicate type key HCA2C2
+psfgen) duplicate type key CC312C
+psfgen) duplicate type key HCA1C2
+psfgen) duplicate type key OC3C51
+psfgen) duplicate type key CC3152
+psfgen) duplicate type key CC3153
+psfgen) duplicate type key CC3251
+psfgen) duplicate type key CC3151
+psfgen) duplicate type key CC3051
+psfgen) duplicate type key CC3062
+psfgen) duplicate type key CC3261
+psfgen) duplicate type key OC312
+psfgen) duplicate type key OC30P
+psfgen) duplicate type key OC2DP
+psfgen) duplicate type key PC
+psfgen) duplicate type key SC
+psfgen) duplicate type key CC312D
+psfgen) duplicate type key OC303
+psfgen) duplicate type key OB
+psfgen) duplicate type key OH1
+psfgen) duplicate type key H
+psfgen) duplicate type key OC313
+psfgen) duplicate type key HCP3
+psfgen) duplicate residue key AGLC will be ignored
+psfgen) duplicate residue key BGLC will be ignored
+psfgen) duplicate residue key AALT will be ignored
+psfgen) duplicate residue key BALT will be ignored
+psfgen) duplicate residue key AALL will be ignored
+psfgen) duplicate residue key BALL will be ignored
+psfgen) duplicate residue key AGAL will be ignored
+psfgen) duplicate residue key BGAL will be ignored
+psfgen) duplicate residue key AGUL will be ignored
+psfgen) duplicate residue key BGUL will be ignored
+psfgen) duplicate residue key AIDO will be ignored
+psfgen) duplicate residue key BIDO will be ignored
+psfgen) duplicate residue key AMAN will be ignored
+psfgen) duplicate residue key BMAN will be ignored
+psfgen) duplicate residue key ATAL will be ignored
+psfgen) duplicate residue key BTAL will be ignored
+psfgen) duplicate residue key AXYL will be ignored
+psfgen) duplicate residue key BXYL will be ignored
+psfgen) duplicate residue key AFUC will be ignored
+psfgen) duplicate residue key BFUC will be ignored
+psfgen) duplicate residue key ARHM will be ignored
+psfgen) duplicate residue key BRHM will be ignored
+psfgen) duplicate residue key AGLCA will be ignored
+psfgen) duplicate residue key BGLCA will be ignored
+psfgen) duplicate residue key GLCP will be ignored
+psfgen) duplicate residue key BGLCA0 will be ignored
+psfgen) duplicate residue key AIDOA will be ignored
+psfgen) duplicate residue key BIDOA will be ignored
+psfgen) duplicate residue key AGLCNA will be ignored
+psfgen) duplicate residue key BGLCNA will be ignored
+psfgen) duplicate residue key BGLCN0 will be ignored
+psfgen) duplicate residue key AGALNA will be ignored
+psfgen) duplicate residue key BGALNA will be ignored
+psfgen) duplicate residue key GALP will be ignored
+psfgen) duplicate residue key N2P will be ignored
+psfgen) duplicate residue key ANE5AC will be ignored
+psfgen) duplicate residue key BNE5AC will be ignored
+psfgen) duplicate residue key MGLYOL will be ignored
+psfgen) duplicate residue key MERYOL will be ignored
+psfgen) duplicate residue key DTHROL will be ignored
+psfgen) duplicate residue key LTHROL will be ignored
+psfgen) duplicate residue key MRIBOL will be ignored
+psfgen) duplicate residue key DARAOL will be ignored
+psfgen) duplicate residue key LARAOL will be ignored
+psfgen) duplicate residue key MXYLOL will be ignored
+psfgen) duplicate residue key MALLOL will be ignored
+psfgen) duplicate residue key DALTOL will be ignored
+psfgen) duplicate residue key LALTOL will be ignored
+psfgen) duplicate residue key DGLUOL will be ignored
+psfgen) duplicate residue key LGLUOL will be ignored
+psfgen) duplicate residue key DMANOL will be ignored
+psfgen) duplicate residue key LMANOL will be ignored
+psfgen) duplicate residue key DGULOL will be ignored
+psfgen) duplicate residue key LGULOL will be ignored
+psfgen) duplicate residue key DIDIOL will be ignored
+psfgen) duplicate residue key LIDIOL will be ignored
+psfgen) duplicate residue key MGALOL will be ignored
+psfgen) duplicate residue key ALLOSE will be ignored
+psfgen) duplicate residue key PSICOS will be ignored
+psfgen) duplicate residue key INI1 will be ignored
+psfgen) duplicate residue key INI2 will be ignored
+psfgen) duplicate residue key INI3 will be ignored
+psfgen) duplicate residue key INI4 will be ignored
+psfgen) duplicate residue key INI5 will be ignored
+psfgen) duplicate residue key ADEO will be ignored
+psfgen) duplicate residue key BDEO will be ignored
+psfgen) duplicate residue key ARIB will be ignored
+psfgen) duplicate residue key BRIB will be ignored
+psfgen) duplicate residue key AARB will be ignored
+psfgen) duplicate residue key BARB will be ignored
+psfgen) duplicate residue key ALYF will be ignored
+psfgen) duplicate residue key BLYF will be ignored
+psfgen) duplicate residue key AXYF will be ignored
+psfgen) duplicate residue key BXYF will be ignored
+psfgen) duplicate residue key AFRU will be ignored
+psfgen) duplicate residue key BFRU will be ignored
+psfgen) duplicate residue key 11AA will be ignored
+psfgen) duplicate residue key 11AB will be ignored
+psfgen) duplicate residue key 11BB will be ignored
+psfgen) duplicate residue key 12AA will be ignored
+psfgen) duplicate residue key 12AB will be ignored
+psfgen) duplicate residue key 12BA will be ignored
+psfgen) duplicate residue key 12BB will be ignored
+psfgen) duplicate residue key 13AA will be ignored
+psfgen) duplicate residue key 13AB will be ignored
+psfgen) duplicate residue key 13BA will be ignored
+psfgen) duplicate residue key 13BB will be ignored
+psfgen) duplicate residue key 14AA will be ignored
+psfgen) duplicate residue key 14AB will be ignored
+psfgen) duplicate residue key 14BA will be ignored
+psfgen) duplicate residue key 14BB will be ignored
+psfgen) duplicate residue key 16AB will be ignored
+psfgen) duplicate residue key 16BB will be ignored
+psfgen) duplicate residue key OMEA will be ignored
+psfgen) duplicate residue key OMEB will be ignored
+psfgen) duplicate residue key OMEF will be ignored
+psfgen) duplicate residue key FOMEA will be ignored
+psfgen) duplicate residue key FOMEB will be ignored
+psfgen) duplicate residue key SUCR will be ignored
+psfgen) duplicate residue key LCTL will be ignored
+psfgen) duplicate residue key MELZ will be ignored
+psfgen) duplicate residue key RAFF will be ignored
+psfgen) duplicate residue key KES will be ignored
+psfgen) duplicate residue key 6KES will be ignored
+psfgen) duplicate residue key IMAL will be ignored
+psfgen) duplicate residue key PLAN will be ignored
+psfgen) duplicate residue key PEKH will be ignored
+psfgen) duplicate residue key AR15 will be ignored
+psfgen) duplicate residue key AB15 will be ignored
+psfgen) duplicate residue key SA23E will be ignored
+psfgen) duplicate residue key I3P1 will be ignored
+psfgen) duplicate residue key I3P2 will be ignored
+psfgen) duplicate residue key I4P1 will be ignored
+psfgen) duplicate residue key I4P2 will be ignored
+psfgen) duplicate residue key I5P1 will be ignored
+psfgen) duplicate residue key I5P2 will be ignored
+psfgen) duplicate topology file /data/users/jonathan/CHARMM_CarbohydrateBuilder/TopologyData/top_all36_carb_new.rtf
+psfgen) redundant alias of residue GALN to BGALNA in topology definitions
+psfgen) redundant alias of residue GLCA to BGLCA in topology definitions
+psfgen) aliasing residue GALN atom N2 to N
+psfgen) aliasing residue GALN atom HN2 to HN
+psfgen) aliasing residue GALN atom C7 to C
+psfgen) aliasing residue GALN atom O7 to O
+psfgen) aliasing residue GALN atom C8 to CT
+psfgen) aliasing residue GALN atom H81 to HT1
+psfgen) aliasing residue GALN atom H82 to HT2
+psfgen) aliasing residue GALN atom H83 to HT3
+psfgen) aliasing residue GLCA atom O6A to O61
+psfgen) aliasing residue GLCA atom O6B to O62
+psfgen) building segment P2
+psfgen) setting patch for first residue to NONE
+psfgen) setting patch for last residue to NONE
+psfgen) reading residues from pdb file P2.pdb
+psfgen) extracted 6 residues from pdb file
+Info: generating structure...
+segment complete.
+psfgen) reading coordinates from pdb file P2.pdb for segment P2
+psfgen) applying patch GALP to 1 residue(s)
+psfgen) applying patch GALP to 1 residue(s)
+Doing link: 14bb P2:1 P2:2
+psfgen) applying patch 14BB to 2 residue(s)
+Doing link: 13bb P2:2 P2:3
+psfgen) applying patch 13BB to 2 residue(s)
+Doing link: 13bb P2:3 P2:4
+psfgen) applying patch 13BB to 2 residue(s)
+Doing link: 14bb P2:4 P2:5
+psfgen) applying patch 14BB to 2 residue(s)
+Doing link: 13bb P2:5 P2:6
+psfgen) applying patch 13BB to 2 residue(s)
+Links done!
+psfgen) Info: guessing coordinates for 7 atoms (0 non-hydrogen)
+psfgen) regenerating all angles
+psfgen) regenerating all dihedrals
+psfgen) Info: writing psf file P2_psfgen.psf
+psfgen) total of 151 atoms
+psfgen) total of 156 bonds
+psfgen) total of 285 angles
+psfgen) total of 440 dihedrals
+psfgen) total of 10 impropers
+psfgen) total of 0 explicit exclusions
+psfgen) Structure requires EXTended PSF format
+psfgen) total of 0 cross-terms
+psfgen) Info: psf file complete.
+psfgen) Info: writing pdb file P2_psfgen.pdb
+psfgen) Info: Atoms with guessed coordinates will have occupancy of 0.0.
+psfgen) Info: pdb file complete.
+
+
+
+
+
+
+
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file P2_psfgen.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 151
+Info)    Bonds: 156
+Info)    Angles: 285  Dihedrals: 440  Impropers: 10  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 6
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file P2_psfgen.pdb
+psfplugin) Structure requires EXTended PSF format
+psfplugin) Writing angles/dihedrals/impropers...
+Info) Opened coordinate file P2_psfgen.psf for writing.
+Info) Finished with coordinate file P2_psfgen.psf.
+Info) Opened coordinate file P2_psfgen.pdb for writing.
+Info) Finished with coordinate file P2_psfgen.pdb.
+Info) Finished with coordinate file lego_set_2.pdb.
+Info) Finished with coordinate file P2.pdb.
+Info) Finished with coordinate file P2_psfgen.pdb.
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file P1_psfgen.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 151
+Info)    Bonds: 156
+Info)    Angles: 285  Dihedrals: 440  Impropers: 10  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 6
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file P1_psfgen.pdb
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file P2_psfgen.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 151
+Info)    Bonds: 156
+Info)    Angles: 285  Dihedrals: 440  Impropers: 10  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 6
+Info)    Waters: 0
+Info)    Segments: 1
+Info)    Fragments: 1   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file P2_psfgen.pdb
+Info) Analyzing structure ...
+Info)    Atoms: 302
+Info)    Bonds: 312
+Info)    Angles: 570  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Bondtypes: 1  Angletypes: 1  Dihedraltypes: 1  Impropertypes: 1
+Info)    Residues: 12
+Info)    Waters: 0
+Info)    Segments: 3
+Info)    Fragments: 2   Protein: 0   Nucleic: 0
+psfplugin) Structure requires EXTended PSF format
+psfplugin) Writing angles/dihedrals/impropers...
+Info) Opened coordinate file merged_polys.psf for writing.
+Info) Finished with coordinate file merged_polys.psf.
+Info) Opened coordinate file merged_polys.pdb for writing.
+Info) Finished with coordinate file merged_polys.pdb.
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file merged_polys.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 302
+Info)    Bonds: 312
+Info)    Angles: 570  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 12
+Info)    Waters: 0
+Info)    Segments: 2
+Info)    Fragments: 2   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file merged_polys.pdb
+psfplugin) Structure requires EXTended PSF format
+psfplugin) Writing angles/dihedrals/impropers...
+Info) Opened coordinate file angry_baby_build.psf for writing.
+Info) Finished with coordinate file angry_baby_build.psf.
+Info) Opened coordinate file angry_baby_build.pdb for writing.
+Info) Finished with coordinate file angry_baby_build.pdb.
+Info) Finished with coordinate file merged_polys.pdb.
+angry_baby_build
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file angry_baby_build.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 302
+Info)    Bonds: 312
+Info)    Angles: 570  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 12
+Info)    Waters: 0
+Info)    Segments: 2
+Info)    Fragments: 2   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file angry_baby_build.pdb
+Info) Finished with coordinate file angry_baby_build.pdb.
+Info) generating solute plus one replica of water...
+psfgen) reading structure from psf file angry_baby_build.psf
+psfgen) reading coordinates, insertion codes, and element symbols from pdb file angry_baby_build.pdb
+psfgen) psf file does not contain cross-terms
+psfgen) reading structure from psf file /usr/local/lib/vmd/plugins/noarch/tcl/solvate1.7/wat.psf
+psfgen) reading coordinates, insertion codes, and element symbols from pdb file /usr/local/lib/vmd/plugins/noarch/tcl/solvate1.7/wat.pdb
+psfgen) psf file does not contain cross-terms
+psfgen) Info: writing psf file combine.psf
+psfgen) total of 28085 atoms
+psfgen) total of 18834 bonds
+psfgen) total of 19092 angles
+psfgen) total of 880 dihedrals
+psfgen) total of 20 impropers
+psfgen) total of 0 explicit exclusions
+psfgen) Structure requires EXTended PSF format
+psfgen) total of 0 cross-terms
+psfgen) Info: psf file complete.
+psfgen) Info: writing pdb file combine.pdb
+psfgen) Info: pdb file complete.
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file combine.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 28085
+Info)    Bonds: 18834
+Info)    Angles: 19092  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 9273
+Info)    Waters: 9261
+Info)    Segments: 3
+Info)    Fragments: 9263   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file combine.pdb
+Info) Finished with coordinate file combine.pdb.
+Info) generating water residue lists...
+Info) single water residue type, creating residue list...
+Info) replicating 8 water segments, 2 by 2 by 2
+psfgen) reading topology file /usr/local/lib/vmd/plugins/noarch/tcl/solvate1.7/wat.top
+
+psfgen) >>>>>> Combined CHARMM All-Hydrogen Topology File for <<<<<<<<<
+psfgen) >>>>>>>>> CHARMM22 Proteins and CHARMM27 Lipids <<<<<<<<<<
+psfgen) from
+psfgen) >>>>>>>>CHARMM22 All-Hydrogen Topology File for Proteins <<<<<<
+psfgen) >>>>>>>>>>>>>>>>>>>>> August 1999 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+psfgen) >>>>>>> Direct comments to Alexander D. MacKerell Jr. <<<<<<<<<
+psfgen) >>>>>> 410-706-7442 or email: alex,mmiris.ab.umd.edu  <<<<<<<<<
+psfgen) and
+psfgen)   \\\\\\\ CHARMM27 All-Hydrogen Lipid Topology File ///////
+psfgen)   \\\\\\\\\\\\\\\\\\ Developmental /////////////////////////
+psfgen) 		Alexander D. MacKerell Jr.
+psfgen) 			August 1999
+psfgen)  All comments to ADM jr.  email: alex,mmiris.ab.umd.edu
+psfgen) 		telephone: 410-706-7442
+psfgen) 
+psfgen) Created by CHARMM version 27 1
+psfgen) building segment WT1
+psfgen) setting patch for first residue to NONE
+psfgen) setting patch for last residue to NONE
+Info: generating structure...
+segment complete.
+psfgen) building segment WT2
+psfgen) setting patch for first residue to NONE
+psfgen) setting patch for last residue to NONE
+Info: generating structure...
+segment complete.
+psfgen) building segment WT3
+psfgen) setting patch for first residue to NONE
+psfgen) setting patch for last residue to NONE
+Info: generating structure...
+segment complete.
+psfgen) building segment WT4
+psfgen) setting patch for first residue to NONE
+psfgen) setting patch for last residue to NONE
+Info: generating structure...
+segment complete.
+psfgen) building segment WT5
+psfgen) setting patch for first residue to NONE
+psfgen) setting patch for last residue to NONE
+Info: generating structure...
+segment complete.
+psfgen) building segment WT6
+psfgen) setting patch for first residue to NONE
+psfgen) setting patch for last residue to NONE
+Info: generating structure...
+segment complete.
+psfgen) building segment WT7
+psfgen) setting patch for first residue to NONE
+psfgen) setting patch for last residue to NONE
+Info: generating structure...
+segment complete.
+psfgen) building segment WT8
+psfgen) setting patch for first residue to NONE
+psfgen) setting patch for last residue to NONE
+Info: generating structure...
+segment complete.
+psfgen) Info: writing psf file solvated_layer.psf
+psfgen) total of 31010 atoms
+psfgen) total of 20784 bonds
+psfgen) total of 10806 angles
+psfgen) total of 880 dihedrals
+psfgen) total of 20 impropers
+psfgen) total of 0 explicit exclusions
+psfgen) Structure requires EXTended PSF format
+psfgen) total of 0 cross-terms
+psfgen) Info: psf file complete.
+psfgen) Info: writing pdb file solvated_layer.pdb
+psfgen) Info: pdb file complete.
+psfgen) clearing structure, preserving topology and aliases
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file solvated_layer.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 31010
+Info)    Bonds: 20784
+Info)    Angles: 10806  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 10248
+Info)    Waters: 10236
+Info)    Segments: 6
+Info)    Fragments: 10238   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file solvated_layer.pdb
+Info) Finished with coordinate file solvated_layer.pdb.
+Info) Opened coordinate file solvated_layer.pdb for writing.
+Info) Finished with coordinate file solvated_layer.pdb.
+Info) Extra structure overlap safety check...
+Info) Solvate completed successfully.
+solvated_layer
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file solvated_layer.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 31010
+Info)    Bonds: 20784
+Info)    Angles: 10806  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 10248
+Info)    Waters: 10236
+Info)    Segments: 6
+Info)    Fragments: 10238   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file solvated_layer.pdb
+Ensuring neutralization requires putting 0 cations and 0 anions.
+Autoionize) Reading solvated_layer.psf/solvated_layer.pdb...
+psfgen) clearing structure, preserving topology and aliases
+psfgen) reading structure from psf file solvated_layer.psf
+psfgen) reading coordinates, insertion codes, and element symbols from pdb file solvated_layer.pdb
+psfgen) psf file does not contain cross-terms
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file solvated_layer.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 31010
+Info)    Bonds: 20784
+Info)    Angles: 10806  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 10248
+Info)    Waters: 10236
+Info)    Segments: 6
+Info)    Fragments: 10238   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file solvated_layer.pdb
+Info) Finished with coordinate file solvated_layer.pdb.
+Autoionize) System net charge before adding ions: 2.682209014892578e-7e.
+Autoionize) Ions to be placed:
+Autoionize)   29 SOD
+Autoionize)   29 CLA
+Autoionize) Required min distance from molecule: 5A.
+Autoionize) Required min distance between ions: 5A.
+Autoionize) Output file prefix 'simple_ionized'.
+Autoionize) Ions will be added to segname ION.
+Autoionize) Obtained positions for 58 ions.
+Autoionize) Tagged 58 water molecules for deletion.
+Autoionize) Deleted 58 water molecules.
+Autoionize) Reading CHARMM topology file...
+psfgen) reading topology file /usr/local/lib/vmd/plugins/noarch/tcl/readcharmmtop1.2/toppar_water_ions_namd.str
+
+psfgen)  Toplogy and parameter information for water and ions.
+psfgen) 
+psfgen) reading topology from stream file
+psfgen)  Topology for water and ions
+psfgen) 
+psfgen) Created by CHARMM version 31 1
+psfgen) skipping parameters in stream file
+psfgen)  Parameters for water and ions
+psfgen) 
+psfgen) skipping parameters in stream file
+psfgen)  NBFix between carboxylate and sodium
+psfgen) 
+psfgen) building segment ION
+psfgen) setting patch for first residue to NONE
+psfgen) setting patch for last residue to NONE
+Info: generating structure...
+segment complete.
+Autoionize) Randomizing ion positions...
+Autoionize) Assigning ion coordinates...
+psfgen) Info: writing psf file simple_ionized.psf
+psfgen) total of 30894 atoms
+psfgen) total of 20668 bonds
+psfgen) total of 10748 angles
+psfgen) total of 880 dihedrals
+psfgen) total of 20 impropers
+psfgen) total of 0 explicit exclusions
+psfgen) Structure requires EXTended PSF format
+psfgen) total of 0 cross-terms
+psfgen) Info: psf file complete.
+psfgen) Info: writing pdb file simple_ionized.pdb
+psfgen) Info: pdb file complete.
+Autoionize) Loading new system with added ions...
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file simple_ionized.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 30894
+Info)    Bonds: 20668
+Info)    Angles: 10748  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 10248
+Info)    Waters: 10178
+Info)    Segments: 7
+Info)    Fragments: 10238   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file simple_ionized.pdb
+Info) Finished with coordinate file simple_ionized.pdb.
+Info) Opened coordinate file simple_ionized.pdb for writing.
+Info) Finished with coordinate file simple_ionized.pdb.
+Autoionize) System net charge after adding ions: 2.682209014892578e-7e.
+Autoionize) All done.
+Info) Finished with coordinate file solvated_layer.pdb.
+simple_ionized
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file simple_ionized.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 30894
+Info)    Bonds: 20668
+Info)    Angles: 10748  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 10248
+Info)    Waters: 10178
+Info)    Segments: 7
+Info)    Fragments: 10238   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file simple_ionized.pdb
+psfplugin) Structure requires EXTended PSF format
+psfplugin) Writing angles/dihedrals/impropers...
+Info) Opened coordinate file centered.psf for writing.
+Info) Finished with coordinate file centered.psf.
+Info) Opened coordinate file centered.pdb for writing.
+Info) Finished with coordinate file centered.pdb.
+psfplugin) Detected a Charmm PSF EXTEnded file
+Info) Using plugin psf for structure file centered.psf
+psfplugin) no cross-terms defined in PSF file.
+Info) Analyzing structure ...
+Info)    Atoms: 30894
+Info)    Bonds: 20668
+Info)    Angles: 10748  Dihedrals: 880  Impropers: 20  Cross-terms: 0
+Info)    Bondtypes: 0  Angletypes: 0  Dihedraltypes: 0  Impropertypes: 0
+Info)    Residues: 10248
+Info)    Waters: 10178
+Info)    Segments: 7
+Info)    Fragments: 10238   Protein: 0   Nucleic: 0
+Info) Using plugin pdb for coordinates from file centered.pdb
+Info) Finished with coordinate file simple_ionized.pdb.
+Info) Finished with coordinate file centered.pdb.
+centered
+Info) VMD for LINUXAMD64, version 1.9.4a51 (December 21, 2020)
+Info) Exiting normally.
+vmd > 

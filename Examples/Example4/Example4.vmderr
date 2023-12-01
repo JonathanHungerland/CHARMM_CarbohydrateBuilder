@@ -1,0 +1,22 @@
+/usr/local/lib/vmd/vmd_LINUXAMD64: /lib/x86_64-linux-gnu/libGL.so.1: no version information available (required by /usr/local/lib/vmd/vmd_LINUXAMD64)
+Defaulting "clash_tolerance_dist" for polymer-internal clashes to 0.8 Angström.
+Defaulting "mindist for next-residue-placement to 4.5 Angström.
+Defaulting "maxdist" for next-residue-placement to 6.5 Angström.
+Defaulting "allowed_rotation" for next-residue-placement to 15 degrees.
+Defaulting "max_residue_tries" for placing the next residue to 30.
+Defaulting probability "bglc_protonation_prob" for protonating residue BGLC to 0.0
+Defaulting selection text "polbuild_fromsel_text" to "name C3 O3 C4 O4"
+Defaulting selection text "polbuild_tosel_text" to "name C1 O1 HO1 H1"
+Defaulting number "nrepreats" of basic unit polymer repeats to 3.
+Defaulting "space_per_polymer" to 10^3 Angström.
+Defaulting "build_method" to angry_baby
+Using build_method "angry_baby"
+Defaulting "maximum_layer_throws" for polymer layer to 100.
+Defaulting "maximum_polymer_throws" for single polymers to 100.
+Defaulting "external_clash_tolerance" for clashes between polymers to 5.0 Angström.
+Defaulting "do_we_neutralize" to "yes".
+Defaulting "water_padding" to 15.0 Angström
+Building polymer: GALN
+With patches    : N2P
+Linked by       : skip
+Polymer residues of segid P1 were, on average, succesfully placed after 0.0 tries.

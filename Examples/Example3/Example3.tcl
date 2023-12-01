@@ -19,7 +19,7 @@ set nanion 0
 set nwaters 0
 
 #import all scripts that you need. will also set default values for all parameters that have not been given yet.
-source ./01_polymer_construction.tcl
+source ../../Scripts/01_polymer_construction.tcl
 source ../../Scripts/02_layer_construction.tcl
 source ../../Scripts/03_ion_placer.tcl
 source ../../Scripts/04_water_placer.tcl

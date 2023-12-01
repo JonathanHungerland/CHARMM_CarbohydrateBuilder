@@ -157,7 +157,7 @@ proc polymer_psfgen { inputfile linklist patchlist polnumber } {
     }
 
     #link the residues
-    set r 1
+    set r 0
     foreach link $linklist {
         set r_before $r
         incr r
